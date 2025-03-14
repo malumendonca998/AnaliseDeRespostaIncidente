@@ -16,7 +16,6 @@ O arquivo [analise de resposta a incidente - final.pdf](analise%20de%20resposta%
 
 ## 🚀 Como Este Projeto Pode Ser Útil?
 - **Para Profissionais de Segurança**: Um exemplo prático de como responder a um ataque DDoS.
-- **Para Recrutadores**: Demonstração de habilidades em análise de incidentes, uso de ferramentas de segurança e conformidade com a ISO/IEC 27001.
 - **Para Estudantes**: Um estudo de caso real para entender as etapas de resposta a incidentes.
 
 ## 📂 Estrutura do Repositório

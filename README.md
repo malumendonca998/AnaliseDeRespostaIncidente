@@ -10,9 +10,7 @@ O arquivo [analise de resposta a incidente - final.pdf](analise%20de%20resposta%
 - **Recuperação**: Restauração dos serviços críticos e revisão das políticas de segurança.
 
 ## 🛠️ Ferramentas Utilizadas
-- **Monitoramento de Rede**: Ferramentas para análise de tráfego em tempo real.
-- **IDS/IPS**: Sistema de detecção e prevenção de intrusões.
-- **Backups**: Restauração de sistemas e dados a partir de backups atualizados.
+📄 Documento detalhado da análise do incidente.
 
 ## 🚀 Como Este Projeto Pode Ser Útil?
 - **Para Profissionais de Segurança**: Um exemplo prático de como responder a um ataque DDoS.

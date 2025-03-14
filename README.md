@@ -21,8 +21,6 @@ O arquivo [analise de resposta a incidente - final.pdf](analise%20de%20resposta%
 ## 📂 Estrutura do Repositório
 - **README.md**: Explicação do projeto.
 - **analise de resposta a incidente - final.pdf**: Documento completo da análise.
-- **scripts/**: (Opcional) Scripts ou configurações utilizadas durante o incidente.
-- **images/**: (Opcional) Diagramas ou prints das ferramentas utilizadas.
 
 ## 📝 Lições Aprendidas
 - A importância de uma configuração adequada de firewalls.
